@@ -23,7 +23,15 @@ This shop app template comes with 100+ screens. Some of these pages are Splash, 
   <img src="readme image/Device_frame.png" alt="Ecommerce app Home, product details page" style="width: 1100px; height: auto;">
 </p>
 
+👨‍💻 Developer
 
+Balsam serhan || Flutter Developer
+
+GitHub: https://github.com/balsamsrhan
+
+LinkedIn: https://www.linkedin.com/in/balsam-serhan/
+
+Email: serhanbalsam54@gmail.com
 
 
 
